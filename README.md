@@ -19,3 +19,6 @@ This is a school/course project developed to practice using object oriented desi
 1. Download and unzip the project
 2. Run Main.java
 3. Enjoy!
+
+## Credits
+- Professor Christopher Hield for providing src/gui and src/sim
